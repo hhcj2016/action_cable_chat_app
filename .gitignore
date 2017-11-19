@@ -24,3 +24,6 @@
 /spring/*.pid
 
 .DS_Store
+
+/config/database.yml
+/config/secrets.yml
